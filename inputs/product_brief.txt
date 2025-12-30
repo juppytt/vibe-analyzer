@@ -1,0 +1,8 @@
+You are given a rough product brief. Produce a 5-bullet summary for a PM.
+
+Brief:
+- We want to benchmark how different agents respond to the same task prompt.
+- Each run should replace a placeholder with the real input file name.
+- Output should be JSON so we can aggregate later.
+- Rotate agents when a rate limit is hit, otherwise stick to the current agent.
+- Keep logs for auditing.

@@ -1,0 +1,5 @@
+Draft a short onboarding note for a new teammate joining the Agent Analysis Runner project.
+Include:
+- What the script does
+- Where inputs and outputs live
+- How to run a sample

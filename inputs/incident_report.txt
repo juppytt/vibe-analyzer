@@ -1,0 +1,8 @@
+Summarize the incident report into JSON fields: incident_id, date, impact, root_cause, remediation.
+
+Incident report:
+- ID: INC-2024-091
+- Date: 2024-09-18
+- Impact: Batch runs failed for 3 hours; no customer data loss.
+- Root cause: API rate limit spikes from parallel tasks; retries amplified traffic.
+- Remediation: Added agent rotation on rate limits and capped retries to 2.
