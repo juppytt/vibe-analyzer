@@ -1,0 +1,4 @@
+GitHub Pull Requests API
+
+Use the official REST API documentation to find endpoints, inputs, and outputs.
+URL: https://docs.github.com/en/rest/pulls/pulls

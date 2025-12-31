@@ -1,0 +1,4 @@
+Stripe Payments API
+
+Use the official API documentation to find the endpoints, request fields, and response fields.
+URL: https://stripe.com/docs/api/payments

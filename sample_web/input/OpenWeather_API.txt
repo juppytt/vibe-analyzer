@@ -1,0 +1,4 @@
+OpenWeather Current Weather API
+
+Use the official API documentation to find the input parameters and response schema.
+URL: https://openweathermap.org/current
